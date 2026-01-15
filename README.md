@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Prajwal%20Uraw&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Voice%20%7C%20Backend%20Engineer&descAlignY=65" />
+
 <h1 align="center">Hi 👋, I'm I'm Prajwal Uraw</h1>
 <h3 align="center">Software Engineer – AI Voice & Automation | Backend Engineer | Technical Writer</h3>
 
