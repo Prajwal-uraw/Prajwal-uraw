@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Prajwal%20Uraw&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Voice%20%7C%20Backend%20Engineer&descAlignY=65" />
 
-<img align="right" alt="Coding workspace" width="360"
-src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/coding.gif" />
+<img align="right" alt="Terminal coding" width="340"
+src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/resources/coding.gif" />
 
 
 <h1 align="center">Hi 👋, I'm I'm Prajwal Uraw</h1>
